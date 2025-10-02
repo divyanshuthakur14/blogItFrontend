@@ -1,0 +1,41 @@
+.homepage-container {
+  min-height: 100vh;
+  padding: 0 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #f0f4fa;
+}
+
+.homepage-hero {
+  max-width: 540px;
+  background: #fff;
+  padding: 48px 32px;
+  border-radius: 14px;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.09);
+  text-align: center;
+}
+
+.homepage-title {
+  font-size: 2.6rem;
+  margin-bottom: 14px;
+  color: #232f43;
+}
+
+.homepage-subtitle {
+  font-size: 1.15rem;
+  color: #556080;
+  margin-bottom: 23px;
+  line-height: 1.5;
+}
+
+.homepage-cta {
+  font-size: 1rem;
+  padding: 13px 32px;
+  background: #0055df;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.13);
+}
